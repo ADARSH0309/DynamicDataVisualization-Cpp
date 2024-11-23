@@ -1,0 +1,16 @@
+DynamicDataVisualization-Cpp/
+├── README.md             # Project description and instructions
+├── sample_output.txt     # Sample outputs of your program
+├── src/                  # Source code folder
+│   ├── BinaryTree.h      # Header file for BinaryTree class
+│   ├── BinaryTree.cpp    # Implementation file for BinaryTree class
+│   ├── BinarySearchTree.h
+│   ├── BinarySearchTree.cpp
+│   ├── AVLTree.h
+│   ├── AVLTree.cpp
+│   ├── Graph.h           # Header file for Graph class
+│   ├── Graph.cpp         # Implementation file for Graph class
+│   ├── main.cpp          # Main program file
+└── tests/                # Folder for test case files (optional)
+    ├── test_binary_tree.cpp
+    ├── test_graph.cpp
